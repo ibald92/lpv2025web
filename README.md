@@ -12,3 +12,5 @@ Componentes
 - Arduino
 - Led
 - Sensor
+- Driver motor
+- Pila
